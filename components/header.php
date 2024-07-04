@@ -19,4 +19,6 @@
             color: #a0aec0;
         }
     </style>
+    <script src="https://kit.fontawesome.com/1250bae50f.js" crossorigin="anonymous"></script>
+        
 </head>
